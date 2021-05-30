@@ -1,0 +1,2 @@
+python is interprater based language and it is very
+simple and easy
